@@ -1,4 +1,4 @@
 # Stringloading
 
-**private files**
+**Private files regarding sting/image loading**
 
