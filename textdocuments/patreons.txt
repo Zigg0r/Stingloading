@@ -23,3 +23,4 @@ Atrain,20
 Adam,10
 Black_Light_ST,10
 nars290,10
+TNT_invader,10
