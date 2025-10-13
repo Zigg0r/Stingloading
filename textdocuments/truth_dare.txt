@@ -1,10 +1,204 @@
 START TRUTH
-What's your most embarrassing moment?
+What’s your most-used emoji?
 Have you ever lied to your best friend?
-What's your biggest fear?
+What’s your guilty pleasure TV show?
+What’s the most embarrassing thing you’ve ever said in public?
+Who was your childhood crush?
+Have you ever cheated in a game?
+What’s the silliest thing you’re afraid of?
+What’s your go-to excuse to get out of plans?
+Have you ever pretended to know something you didn’t?
+What’s your most-used app?
+Who in this room do you trust the most?
+Have you ever had a crush on a friend’s partner?
+Who’s the last person you texted?
+What’s the worst date you’ve ever been on?
+Who’s your secret celebrity crush?
+Who would you call first if you got in trouble?
+Have you ever ghosted someone?
+What’s the biggest turn-off for you?
+Have you ever been in love?
+What’s your love language?
+What’s the weirdest dream you’ve ever had?
+What’s the strangest food combo you actually enjoy?
+Have you ever walked into something in public?
+What’s your most embarrassing social media post?
+What’s the weirdest nickname you’ve ever had?
+If you had to pick a spirit animal, what would it be?
+Have you ever been caught talking to yourself?
+What’s the most ridiculous thing you’ve ever believed?
+If you could swap lives with someone for a day, who would it be?
+What’s your most awkward moment ever?
+What’s your biggest insecurity?
+What’s something you’ve never told your parents?
+What’s your biggest regret?
+What’s the hardest decision you’ve ever made?
+What’s a secret talent you have?
+Who has had the biggest influence on your life?
+What’s one thing you’d change about yourself?
+What’s something you’re proud of?
+What’s a goal you’re scared to admit?
+What’s your biggest fear for the future?
+Would you rather be famous or rich?
+Would you rather find true love or win a million dollars?
+Would you rather be invisible or be able to fly?
+Would you rather always tell the truth or never speak again?
+Would you rather travel back in time or into the future?
+Have you ever broken the rules on purpose?
+Who here would you pick as a teammate in a zombie apocalypse?
+What’s your secret party trick?
+What’s the longest you’ve gone without showering?
+Have you ever peeked at someone else’s answers or notes?
+What’s your weirdest habit?
+What’s the worst gift you’ve ever received?
+Have you ever laughed at the wrong moment?
+What’s a word you always mispronounce?
+What’s your weirdest childhood memory?
+What’s your most awkward school story?
+Have you ever lied in Truth or Dare before?
+What’s your most ridiculous fear?
+Have you ever sent a text to the wrong person?
+What’s something you’ve done that you’d never admit publicly?
+Who was your first crush?
+What’s the longest crush you’ve ever had?
+Have you ever broken someone’s heart?
+Have you ever been friend-zoned?
+Have you ever cried in front of someone you didn’t want to?
+What’s your dream date like?
+Who’s your “what if” person?
+What’s your biggest pet peeve in relationships?
+Do you believe in love at first sight?
+What’s something romantic you’ve done (or want to do)?
+What’s your most-used phrase?
+If you could eat one food forever, what would it be?
+What’s your most irrational pet peeve?
+If you had to get a tattoo today, what would it be?
+What’s your weirdest flex?
+Have you ever accidentally stolen something?
+What’s your most embarrassing song on your playlist?
+What’s your hidden talent?
+If you had to move abroad, where would you go?
+What’s something you wish you could forget?
+What’s your biggest “red flag”?
+What’s your biggest “green flag”?
+Who would you kiss in this group if you had to?
+What’s your most cringe moment with a crush?
+What’s something that instantly makes you blush?
+Who’s the most attractive person here?
+What’s your most recent lie?
+Have you ever sent a risky text?
+Who do you think likes you (but hasn’t said it)?
+What’s something you’d do if no one could judge you?
+What’s your proudest accomplishment?
+What’s something you’ve learned the hard way?
+Who do you miss the most right now?
+What motivates you when you’re down?
+What’s one thing you’d tell your younger self?
+What’s a secret dream you’ve never shared?
+What’s a lesson you learned from heartbreak?
+What’s one thing you can’t live without?
+What’s something you want people to remember you for?
+What’s your personal motto?
 END TRUTH
 START DARE
-Do 10 jumping jacks
-Sing your favorite song
-Dance for 30 seconds
+Do 20 jumping jacks.
+Sing the chorus of your favorite song.
+Speak in an accent for the next 5 minutes.
+Act like a chicken for 30 seconds.
+Try to lick your elbow.
+Say the alphabet backward.
+Do your best dance move.
+Pretend to be a robot for 1 minute.
+Tell a joke that actually makes someone laugh.
+Do your best celebrity impression.
+Post an embarrassing photo on your story (or pretend to).
+Let someone write a status for you.
+Text your crush “hey” (or fake it for fun).
+Wear socks on your hands for 5 minutes.
+Eat a spoonful of mustard/ketchup.
+Try to do 10 pushups (no matter how bad).
+Talk without closing your mouth for 1 minute.
+Try to juggle 3 random objects.
+Sing everything you say for 3 minutes.
+Do your best evil laugh.
+Let someone else style your hair.
+Let the person next to you draw on your arm.
+Swap an accessory with someone else.
+Let someone tickle you for 10 seconds.
+Do your best imitation of someone in the room.
+Compliment every person in the room.
+Do your best animal impression.
+Let someone take a funny photo of you.
+Try to act out a movie scene dramatically.
+Speak only in song lyrics for 2 minutes.
+Say something nice to your crush.
+Try to wink at everyone for 2 minutes.
+Share your most recent selfie.
+Let someone go through your playlist.
+Message a random contact “I have something to tell you.”
+Pretend to flirt with someone for 30 seconds.
+Give someone a creative compliment.
+Reveal the last person you searched online.
+Take a silly selfie and send it to a friend.
+Pretend you’re proposing to someone.
+Make up a poem on the spot.
+Rap about what’s in the room.
+Draw a self-portrait (no looking).
+Invent a product and sell it in 30 seconds.
+Create a fake commercial.
+Tell a dramatic story about a mundane object.
+Make a 15-second dance routine.
+Talk like a pirate for 2 minutes.
+Narrate what someone is doing as if it’s a documentary.
+Pretend you’re a news anchor reporting breaking news.
+Pretend you’re an airplane.
+Pretend to be a dog until your next turn.
+Act like your favorite movie character.
+Pretend to be invisible.
+Try to balance a book on your head for 1 minute.
+Walk across the room like a model.
+Do a slow-motion run.
+Pretend the floor is lava for 30 seconds.
+Act like you’re underwater.
+Pretend to cry dramatically.
+Read the last text you sent aloud.
+Let someone else write something funny on your forehead (washable).
+Talk in a whisper until your next turn.
+Post a funny selfie in a group chat.
+Try to make someone laugh in 30 seconds.
+Wear your shirt backward for the rest of the game.
+Attempt a tongue twister five times fast.
+Try to moonwalk.
+Pretend to be a food critic reviewing your drink.
+Do 3 cartwheels or attempts.
+Compliment the last person you texted.
+Send a random emoji to a friend.
+Call someone and sing “Happy Birthday.”
+Send “I’m watching you 👀” to a random contact.
+Change your nickname in chat to something funny.
+Say “meow” after every sentence for 2 minutes.
+Send a voice note of you saying something dramatic.
+Text a friend a random movie quote.
+Send a random GIF to someone and don’t explain.
+Let someone else post a random emoji on your story.
+Hold your breath for 10 seconds.
+Try to do a handstand or wall balance.
+Recite a tongue twister perfectly.
+Say three nice things about yourself.
+Try to make up a new dance move.
+Draw something with your eyes closed.
+Name five countries in 10 seconds.
+Try to whistle a full song.
+Spin around 10 times and walk in a straight line.
+Try to make everyone laugh without speaking.
+Try to rhyme everything you say for 1 minute.
+Act like a teacher giving detention.
+Make up a new word and define it.
+Pretend to host a cooking show.
+Pretend you’re a famous influencer.
+Do your best “superhero landing.”
+Pretend to argue with your reflection.
+Try to do a yoga pose.
+Give your best motivational speech.
+End the round with a “cheesy” one-liner pickup line.
 END DARE
