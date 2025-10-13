@@ -1,0 +1,10 @@
+START TRUTH
+What's your most embarrassing moment?
+Have you ever lied to your best friend?
+What's your biggest fear?
+END TRUTH
+START DARE
+Do 10 jumping jacks
+Sing your favorite song
+Dance for 30 seconds
+END DARE
