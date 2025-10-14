@@ -1,13 +1,90 @@
 START TRUTH
-Do you think #NAME has ever been on a plane?
-Do you think #NAME is taller then #NAME?
-Pick the following: marry, f*ck, kill. #NAME / #NAME / #NAME
-What’s the most embarrassing thing you’ve ever said in public?
+Pick the following: f*ck, marry, kill. #NAME / #NAME / #NAME
+Would you throw #NAME into lava for a million dollars?
+If you could choose between #NAME and #NAME, who would you save from certain death?
+Would you have sexy time with #NAME?
+What do you think about #NAME?
+What was the last lie you told #NAME?
+What do you like and hate about #NAME?
+Is there a game from your childhood that you still play?
+Have you ever bitten your partner during sexy time?
+Have you ever been bitten by your partner during sexy time?
+Whats your favorite alcoholic beverage?
+Whats your favorite non-alcoholic beverage?
+Who is your least favorite person here?
+Who is your most favorite person here?
+Whats you favorite kind of food?
+Have you ever lied to win "Never have I ever"?
+Have you've ever gotten lost in an IKEA?
+Have you ever been rejected by a crush?
+Have you ever pretended to be sick, so your parents would let you stay at home?
+What superpower would you like to have?
+If you could be a supervillan, what would be your Backstory?
+If you could be a superhero, what would be your Backstory?
+When was the last time you dreamed of sexy time?
+Is there somebody here that you would like to push of a mountain?
+If you could decide between infinite money or infinite luck, which would you choose?
+If you could turn invisible, what would you do with that Power?
+If you could transform how you look visually (fictional or real), who would you transform into?
+If you could switch lives for 1 day with anyone here, who would you pick?
+Do you play any embarrising games?
+Who do you like the most and least here?
+Do you like the lights on or off during sexy time?
+Would you rather only to be able to lie, or only be able to say the truth?
+Have you ever mixed salami and nutella and eaten it?
+Whats your favorite color?
+Whats your favorite animal?
+If you could transform into any animal, which one would you choose?
+Do you put milk or cereal first into your bowl, and why?
+Do you sometimes wear your underwear more then 1 1ay?
+Are you rather chaotic evil, or chaotic good?
+If you could change 1 thing about this world, what would it be?
+Would you rather be able to get drunk or high, just by thinking about it?
+Have you ever thought about how mermaids poop?
+What's something you really hope your parents never finds out about you?
+What is your worst fear?
 END TRUTH
 START DARE
-Do 20 jumping jacks.
-Sing the chorus of your favorite song.
-Speak in an accent for the next 5 minutes.
-Act like a chicken for 30 seconds.
-Try to lick your elbow.
+Drink 2 together with #NAME.
+Give a kiss to #NAME.
+Sit on the lap of #NAME for 1 round.
+You are now drinking buddys with #NAME!
+Punch #NAME!
+Try to seduce #NAME!
+Message #NAME that you love them!
+Drink the amount #NAME tells you to! (max. 8)
+Give #NAME headpats!
+Kneel before #NAME!
+Give #NAME a hug!
+Give #NAME a lapdance!
+You and #NAME are now married for 1 round, do the same prompt as they receive.
+You and #NAME have to dance on #NAME!
+Switch seats with #NAME.
+Do you best impression of #NAME.
+Cheers with #NAME!
+Talk in a very high voice for 1 round.
+Talk like Batman for 1 round.
+Quack everytime before you take a drink for 1 round.
+Do your sexiest moan!
+Make a Rule!
+Destroy a Rule!
+Give someone who is not paying attention 2 drinks!
+Whisper for 1 round.
+Change your status to what the group decides!
+Show everyone some dancemoves!
+Group shot!
+Chug for 3 seconds.
+Press the dare button 2 more times!
+Press the truth button 2 times!
+Jump in VR and IRL at the same time.
+Toggle off 1 piece of clothing.
+Change into your weirdest avatar for 1 round.
+Gurgle your drink.
+Take 8 drinks!
+Say everything twice for 1 round.
+Slap yourself on the butt.
+The group chooses your dare!
+Talk in slow-mo for 1 round.
+Take a pure shot!
 END DARE
+
