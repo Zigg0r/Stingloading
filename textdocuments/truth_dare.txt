@@ -1,14 +1,8 @@
 START TRUTH
 Do you think #NAME has ever been on a plane?
-What's one thing you admire about #NAME?
-Would you trust #NAME with a secret?
+Do you think #NAME is taller then #NAME?
+Pick the following: marry, f*ck, kill. #NAME / #NAME / #NAME
 What’s the most embarrassing thing you’ve ever said in public?
-Who was your childhood crush?
-Have you ever cheated in a game?
-What’s the silliest thing you’re afraid of?
-What’s your go-to excuse to get out of plans?
-Have you ever pretended to know something you didn’t?
-What’s your most-used app?
 END TRUTH
 START DARE
 Do 20 jumping jacks.
@@ -16,11 +10,4 @@ Sing the chorus of your favorite song.
 Speak in an accent for the next 5 minutes.
 Act like a chicken for 30 seconds.
 Try to lick your elbow.
-Say the alphabet backward.
-Do your best dance move.
-Pretend to be a robot for 1 minute.
-Tell a joke that actually makes someone laugh.
-Do your best celebrity impression.
-Post an embarrassing photo on your story (or pretend to).
 END DARE
-
