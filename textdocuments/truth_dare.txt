@@ -43,6 +43,23 @@ Would you rather be able to get drunk or high, just by thinking about it?
 Have you ever thought about how mermaids poop?
 What's something you really hope your parents never finds out about you?
 What is your worst fear?
+Who is your best drinking buddy here?
+What's your favorite anime?
+Have you ERP'd in a public lobby?
+Have you ERP'd with someone in the room?
+How many IRL sexual partners have you had?
+If you could have one super power, what would it be?
+Who is your favorite pokémon?
+What's your favorite drinking game?
+Do you think you could easily lie to #NAME?
+What's your favorite meal to cook?
+What are you most afraid of?
+What was your dream job as a child?
+What is your favorite movie/book series?
+Have you ever played a porn game for over an hour straight?
+How much money would it take for you to quit your job today?
+If you had to be trapped on a desert island with one person here, who would it be?
+What's your favorite animal?
 END TRUTH
 START DARE
 Drink 2 together with #NAME.
@@ -86,5 +103,14 @@ Slap yourself on the butt.
 The group chooses your dare!
 Talk in slow-mo for 1 round.
 Take a pure shot!
+Change into the last avatar you ERP'd in.
+Chug until #NAME says you can stop.
+Tell a knock-knock joke.
+Do 10 squats!
+Change into your least favorite uploaded avatar.
+Invite someone to the world and make them drink!
+Drink for each person here you've thought about lewdly. 
+Say a number between 1-10, then ask #NAME if you should take or give it.
 END DARE
+
 
