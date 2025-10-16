@@ -1,5 +1,60 @@
 START TRUTH
-Pick the following: f*ck, marry, kill. #NAME / #NAME / #NAME
+If you could be invisible for a day, what’s the first thing you would do?
+What’s the biggest secret you’ve kept from your parents?
+What’s the most embarrassing music you listen to?
+What’s one thing you love most about yourself?
+If a genie granted you three wishes, what would you ask for and why?
+What is your favourite movie genre?
+Where is the weirdest place you've ever gone to the bathroom?
+Have you ever ghosted on someone?
+Which player would survive a zombie apocalypse and who would be the first to go?
+What excuse have you used before to get out plans?
+What's the longest you've ever slept?
+Read the last text you sent someone, out loud.
+What's your biggest pet peeve?
+When was the last time you lied?
+What five things would you bring to a deserted island?
+What's the most embarrassing thing you ever did on a date?
+What celebrity do you think you most look like?
+How many selfies do you take a day?
+What is one thing you would stand in line an hour for?
+What's the longest time you've ever gone without showering?
+What was your favorite childhood show?
+If you had to change your name, what would your new first name be?
+If you could be a fictional character for a day, who would you choose?
+If you could date a fictional character, who would it be?
+What's one thing you can't live without?
+Where was your favorite childhood vacation spot?
+What is the weirdest trend you've ever participated in?
+Who do you text the most?
+ave you ever been fired from a job?
+What’s an instant deal breaker in a potential love interest?
+If you could only eat one thing for the rest of your life, what would you choose?
+What is the biggest lie you ever told your parents?
+What's the worst physical pain you've ever experienced?
+Which player knows you the best?
+What's your favorite part of your body?
+If you could only accomplish three things in life, what would they be?
+What's the weirdest thing you've ever eaten?
+Have you ever gone skinny dipping?
+Tell us about the biggest romantic fail you’ve ever experienced.
+Who was your first celebrity crush?
+What's the strangest dream you've ever had?
+What is an important thing you look for in a love interest?
+What is your worst habit?
+Do you sleep with any stuffed animals?
+What is your biggest insecurity?
+Name one thing you’d do if you knew there’d be zero consequences.
+Do you pee in the shower?
+What’s the most embarrassing thing you’ve done to get a crush’s attention?
+What’s the last movie that made you cry?
+What’s the last song that made you cry?
+What are the five most recent things in your search history?
+When’s the last time you got caught in a lie?
+What gross smell do you actually enjoy?
+Have you ever had a paranormal experience?
+Who would you f*ck, marry, kill..? #NAME / #NAME / #NAME
+Do you think #NAME and #NAME ever did something naughty together?
 Would you throw #NAME into lava for a million dollars?
 If you could choose between #NAME and #NAME, who would you save from certain death?
 Would you have sexy time with #NAME?
@@ -106,11 +161,13 @@ Take a pure shot!
 Change into the last avatar you ERP'd in.
 Chug until #NAME says you can stop.
 Tell a knock-knock joke.
-Do 10 squats!
+Preform 10 squats!
+Preform 10 push-ups!
 Change into your least favorite uploaded avatar.
 Invite someone to the world and make them drink!
 Drink for each person here you've thought about lewdly. 
 Say a number between 1-10, then ask #NAME if you should take or give it.
 END DARE
+
 
 
