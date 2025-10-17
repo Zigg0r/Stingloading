@@ -202,6 +202,21 @@ What’s the kinkiest thing you’ve ever done?
 If you had to describe your love life as a movie title, what would it be?
 END TRUTH
 START DARE
+Pick someone in this room and (lovingly) roast them.
+Do an impression of another player until someone can figure out who it is.
+Say pickles at the end of every sentence you say until the game ends.
+Act like a chicken until your next turn.
+Talk in a British accent until your next turn.
+Try to “summon” the rain as loud as possible.
+Do a plank for a full minute.
+Do your sassiest runway walk.
+Put an ice cube in your mouth and let it melt.
+Bark like a dog until it’s your next turn.
+Repeat everything the person to your right says until your next turn.
+Demonstrate how you style your hair in the mirror (without actually using the mirror).
+Play air guitar for 10 seconds.
+In the next 10 minutes, find a way to scare another player and make it a surprise.
+Talk to a pillow as if it’s your crush.
 Drink 2 together with #NAME.
 Give a kiss to #NAME.
 Sit on the lap of #NAME for 1 round.
@@ -224,6 +239,10 @@ Give #NAME a hug, they need it.
 Win a rock paper scissors against #NAME, or else take 5 drinks.
 If you are older than #NAME, take 2 drinks.
 Whisper something flirtatious to #NAME.
+Grab a glass of water and empty it.
+Switch your controllers for 1 round.
+Switch your feet trackers for 1 round.
+Rotate your hip tracker belt 180 degree.
 Talk in a very high voice for 1 round.
 Talk like Batman for 1 round.
 Quack everytime before you take a drink for 1 round.
@@ -273,6 +292,7 @@ Speak your own language until your next turn.
 Use only sign language until your next turn.
 Compliment three people in the room—but make it weirdly specific.
 END DARE
+
 
 
 
