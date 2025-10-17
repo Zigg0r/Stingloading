@@ -61,6 +61,24 @@ Would you have sexy time with #NAME?
 What do you think about #NAME?
 What was the last lie you told #NAME?
 What do you like and hate about #NAME?
+Would you trust #NAME to give you an employment reference?
+Would you and #NAME make a good couple?
+Do you secretly fantasize about #NAME?
+Do you think #NAME has ever been fired from a job?
+Do you have #NAME added on your friendlist? If so both take 1 drink.
+Do you think #NAME can swim?
+Who do you think would win in a fight? #NAME or #NAME
+Would you ERP with #NAME for unlimited drinks?
+Would you rather live with #NAME or #NAME?
+Do you think you have more hours on VRC than #NAME?
+What’s the most attractive quality you see in #NAME?
+What’s your idea of a perfect first date with #NAME?
+If you could swap lives with #NAME for a day, what’s the first thing you’d do?
+Do you think #NAME would be a good parent?
+Do you think #NAME drinks more than #NAME?
+Do you think #NAME will ever have children?
+Do you think #NAME has prescription glasses?
+Do you think #NAME is taller than you IRL?
 Is there a game from your childhood that you still play?
 Have you ever bitten your partner during sexy time?
 Have you ever been bitten by your partner during sexy time?
@@ -87,9 +105,9 @@ Who do you like the most and least here?
 Do you like the lights on or off during sexy time?
 Would you rather only to be able to lie, or only be able to say the truth?
 Have you ever mixed salami and nutella and eaten it?
-Whats your favorite color?
-Whats your favorite animal?
-If you could transform into any animal, which one would you choose?
+What's your favorite color?
+What's your favorite animal?
+If you had to be any animal, which one and why?
 Do you put milk or cereal first into your bowl, and why?
 Do you sometimes wear your underwear more then 1 1ay?
 Are you rather chaotic evil, or chaotic good?
@@ -114,7 +132,27 @@ What is your favorite movie/book series?
 Have you ever played a porn game for over an hour straight?
 How much money would it take for you to quit your job today?
 If you had to be trapped on a desert island with one person here, who would it be?
-What's your favorite animal?
+Do you have a disability? 
+What was the last webpage you bookmarked? 
+Recommend a game, movie or show you've enjoyed recently.
+Have you ever been arrested/detained?
+Have you ever subscribed/donated to a cam model?
+Have you watched hentai this past week?
+Have you ever ERP'd using a furry avatar?
+What is the nastiest thing you have eaten.
+What would your dream job be.
+What is something most don't know about you.
+What is something you would really want to do someday.
+What is your deepest darkest fantasy?
+Are you a top or a bottom?
+Do you spit or swallow?
+What’s the most illegal thing you’ve ever done?
+What’s something you pretend to like, but actually hate?
+What’s the most childish thing you still do as an adult?
+Who in this room would you trust the most with a secret, and why?
+What’s the weirdest place you’ve ever hooked up?
+What’s the kinkiest thing you’ve ever done?
+If you had to describe your love life as a movie title, what would it be?
 END TRUTH
 START DARE
 Drink 2 together with #NAME.
@@ -134,6 +172,11 @@ You and #NAME have to dance on #NAME!
 Switch seats with #NAME.
 Do you best impression of #NAME.
 Cheers with #NAME!
+Give #NAME a hug, they need it.
+#NAME will choose a word for you to spell.
+Win a rock paper scissors against #NAME, or else take 5 drinks.
+If you are older than #NAME, take 2 drinks.
+Whisper something flirtatious to #NAME.
 Talk in a very high voice for 1 round.
 Talk like Batman for 1 round.
 Quack everytime before you take a drink for 1 round.
@@ -143,7 +186,7 @@ Destroy a Rule!
 Give someone who is not paying attention 2 drinks!
 Whisper for 1 round.
 Change your status to what the group decides!
-Show everyone some dancemoves!
+Show everyone your best dancemoves!
 Group shot!
 Chug for 3 seconds.
 Press the dare button 2 more times!
@@ -167,7 +210,23 @@ Change into your least favorite uploaded avatar.
 Invite someone to the world and make them drink!
 Drink for each person here you've thought about lewdly. 
 Say a number between 1-10, then ask #NAME if you should take or give it.
+Eat a spoonful of raw cereal
+Fortnite dance right now!
+Take 3 drinks and tell Ziggor to fix his world.
+Give out 3 drinks.
+Change your avatar height to the minimum for a round.
+Shh... mute yourself for a round.
+Your nickname is "Stinky" for a round.
+Give out a drink for each "Known User". If there are none, you take 5.
+If you have "Very Poor" avatar, take 5. If not, give out 5.
+End every sentence with a "meow" until your next turn.
+Give us your best pick up line or move.
+Say the worst slur you are willing to say out loud.
+Speak your own language until your next turn.
+Use only sign language until your next turn.
+Compliment three people in the room—but make it weirdly specific.
 END DARE
+
 
 
 
