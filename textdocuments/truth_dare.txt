@@ -1,4 +1,50 @@
 START TRUTH
+If you could talk a famous person, dead or alive, who would you pick and why?
+If you were handed $1,000 right now, what would you spend it on?
+Have you ever cheated on an exam?
+What’s the most awkward thing you’ve ever been caught doing?
+What was your first concert?
+If you had the choice to never have to sleep again, would you do it?
+If you had to get a tattoo today, what would it be?
+Even if you’d be paid $1 million for it, what’s something you would never do?
+If you could travel to the past and meet one person, who would it be?
+What popular TV show or movie do you secretly hate?
+Where do you see yourself in 10 years?
+Name your go-to karaoke song.
+What’s the most adventurous thing you’ve ever done?
+When have you been in the most trouble in school?
+If you had to always be overdressed or underdressed, which would you choose?
+Who would you cast as you and your friends in the movie version of your life?
+What’s the luckiest thing that’s ever happened to you?
+If you had to move to a different country tomorrow, where would you go?
+Have you ever re-gifted a present? What was it?
+What’s the weirdest thing you do when you’re alone?
+What movie (or franchise) are you most embarrassed to love?
+Have you ever had an imaginary friend? Describe them.
+What gross food combo do you secretly love?
+What’s the most embarrassing nickname you’ve ever been given?
+Have you ever been in a physical fight?
+Have you ever had a wardrobe malfunction?
+What’s the scariest dream you’ve ever had?
+What’s the weirdest place you’ve kissed/hooked up with someone?
+Have you ever slid into a celebrity’s DMs?
+What superstitions do you believe in?
+What app do you check first in the morning?
+What’s the weirdest thing you’ve ever purchased?
+hat’s the longest you’ve ever gone without brushing your teeth?
+What’s the weirdest thing you have in your bedroom?
+How often do you wash your sheets?
+Do you sing in the shower?
+What’s the weirdest thing you do while driving?
+Have you ever started a rumor about someone? What was it?
+If you could talk to a fortune teller, what would you ask them?
+Do you believe in aliens?
+Have you ever given a fake number?
+What’s more important to you, love or money?
+Have you ever had your palm read?
+What's a conspiracy theory you actually believe?
+What’s your survival plan during a zombie apocalypse?
+What destination is on your travel bucket list?
 If you could be invisible for a day, what’s the first thing you would do?
 What’s the biggest secret you’ve kept from your parents?
 What’s the most embarrassing music you listen to?
@@ -79,6 +125,7 @@ Do you think #NAME drinks more than #NAME?
 Do you think #NAME will ever have children?
 Do you think #NAME has prescription glasses?
 Do you think #NAME is taller than you IRL?
+If you could trade lives with any person here for a day, who would it be?
 Is there a game from your childhood that you still play?
 Have you ever bitten your partner during sexy time?
 Have you ever been bitten by your partner during sexy time?
@@ -226,6 +273,7 @@ Speak your own language until your next turn.
 Use only sign language until your next turn.
 Compliment three people in the room—but make it weirdly specific.
 END DARE
+
 
 
 
