@@ -1,5 +1,5 @@
 SCROLL_SPEED=50
-TEXT_HEIGHT=680
+TEXT_HEIGHT=2000
 TOP_WAIT=5
 BOTTOM_WAIT=2
 START TIER 3
@@ -44,5 +44,5 @@ Supporter Name 2
 Supporter Name 2
 Supporter Name 2
 Supporter Name 2
-Supporter Name 2
+Last name Last name Last name
 END TIER 1
