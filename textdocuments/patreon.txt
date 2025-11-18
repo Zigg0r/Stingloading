@@ -1,4 +1,5 @@
 SCROLL_SPEED=50
+TEXT_HEIGHT=680
 START TIER 3
 Supporter Name 1
 Supporter Name 2
