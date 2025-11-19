@@ -3,52 +3,23 @@ LINE_HEIGHT=30
 TOP_WAIT=5
 BOTTOM_WAIT=2
 START TIER 3
-Supporter Name 1
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 1
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
+Zoz Zero
+Disgruntled Asshat
+Deavial
 END TIER 3
 START TIER 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
+Radarada
+Ascendence
+Kattslickare
+-Saito-
+Faldrin
+Atrain
+Colin The Boss
 END TIER 2
 START TIER 1
-Supporter Name 5
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Supporter Name 2
-Last name Last name Last
+Adam
+Black_Light_ST
+nars290
+TNT_invader
+Dillon Wallace
 END TIER 1
