@@ -4,7 +4,6 @@ TOP_WAIT=5
 BOTTOM_WAIT=2
 START TIER 3
 Zoz Zero
-Disgruntled Asshat
 Deavial
 END TIER 3
 START TIER 2
