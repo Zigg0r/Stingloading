@@ -35,7 +35,7 @@ Never have I ever gone commando
 Everyone takes 1 drink for each social media platform you are on
 Never have I ever played on my phone, trying to look like I'm doing something important
 When you were eight years old, what did you want to be when you grew up?
-Everyone who has ever been denied takes a drink
+Everyone who has ever been rejected takes a drink
 Do you prefer mashed potatoes or baked potatoes?
 Never have I ever tasted earwax
 What is the weirdest action you have done while you’re drunk?
@@ -165,7 +165,7 @@ Anyone who is from Norway takes 2 drinks
 Everyone who has been in VRchat since 2017 give 1 drink
 Drink with the person to your left and right
 Never have I ever been playful with whipped cream
-You turned into a robot, speak robotic untill your next turn
+You turned into a robot, speak robotic until your next turn
 What is the most times you've touched yourself in one day?
 Never have I ever been on stage in front of a crowd
 404: drink 4
@@ -316,7 +316,7 @@ Who is most likely to get too drunk at pre drinks?
 Who is most likely to accidentally poison someone with terrible cooking?
 All avatars with emission on them drink
 Do you prefer Disney World or Universal?
-You and the player opposite of you are now rivals, always drink 1 more then the other one has to
+You and the player opposite of you are now rivals, always drink 1 more than the other one has to
 Everyone who has a 6 in their age drinks
 Never have I ever been to a wine tasting
 Do you prefer a carnival or the circus?
@@ -413,7 +413,7 @@ Have you ever been caught checking someone out?
 Drink with the 3 people across of you
 Drink for each VR headset you have owned
 You have to include a "meow" in every sentence you make for 1 round
-Never have I ever mistaken a man for a women or vice versa
+Never have I ever mistaken a man for a woman, or vice versa
 Never have I ever Googled my own name to see what comes up
 Have you ever been rejected by someone?
 Blondes, brunettes or redheads?
@@ -613,7 +613,7 @@ Who is most likely to be the first one at the mic at karaoke?
 Do you prefer  traveling by train or bus?
 Never have I ever thought a movie was better than the book
 Take a drink and spin again
-Tell the Player to your right how much you love them.
+Tell the player to your right how much you love them
 Who is most likely to have a one night stand?
 What is your favorite season?
 Who is most likely to lie to get a new job?
@@ -712,7 +712,7 @@ Who do you most want to sleep with out of everyone here?
 Never have I ever been on a blind date
 Never have I ever performed in a talent show
 Never have I ever used a fake ID
-Perform 10 squads on the table
+Perform 10 squats on the table
 Anyone who is from Bulgaria takes 2 drinks
 Never have I ever bought something stolen
 Everyone who played VRchat for more than 4k hours, drink 4
@@ -947,7 +947,7 @@ Drink 4 if you like Android over Apple
 Do you prefer The Simpsons or Family Guy?
 Never have I ever broken in somewhere
 What’s the worst thought you’ve ever had?
-If your avatar is bellow 20Mb of texture memory, give 4 drinks
+If your avatar is below 20Mb of texture memory, give 4 drinks
 Never have I ever popped someone else's pimple
 Take a drink if you are mostly attracted to people younger than you
 Never have I ever vomited in public
@@ -1004,6 +1004,7 @@ Never have I ever been to a drive-in movie
 Do you sleep completely nude?
 Do you prefer art festivals or music festivals?
 Who is most likely to give their kid an unusual (terrible) name?
+
 
 
 
