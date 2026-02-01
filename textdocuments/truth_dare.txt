@@ -73,7 +73,7 @@ What's one thing you can't live without?
 Where was your favorite childhood vacation spot?
 What is the weirdest trend you've ever participated in?
 Who do you text the most?
-ave you ever been fired from a job?
+Have you ever been fired from a job?
 What’s an instant deal breaker in a potential love interest?
 If you could only eat one thing for the rest of your life, what would you choose?
 What is the biggest lie you ever told your parents?
@@ -292,6 +292,7 @@ Speak your own language until your next turn.
 Use only sign language until your next turn.
 Compliment three people in the room—but make it weirdly specific.
 END DARE
+
 
 
 
