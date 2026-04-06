@@ -5,7 +5,7 @@ BOTTOM_WAIT=2
 START TIER 3
 Zoz Zero
 Deavial
-ObsidianShaak
+H0RIZ0N
 END TIER 3
 START TIER 2
 Radarada
