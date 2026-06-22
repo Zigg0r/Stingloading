@@ -16,7 +16,6 @@ END TIER 2
 START TIER 1
 Adam
 Black_Light_ST
-nars290
 TNT_invader
 Zorin the Lynx
 END TIER 1
