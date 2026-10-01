@@ -1,4 +1,31 @@
 START TRUTH
+Would you throw #NAME into lava for a million dollars?
+If you could choose between #NAME and #NAME, who would you save from certain death?
+Would you have sexy time with #NAME?
+What do you think about #NAME?
+What was the last lie you told #NAME?
+What do you like and hate about #NAME?
+Who would you f*ck, marry, kill..? #NAME / #NAME / #NAME
+Do you think #NAME and #NAME ever did something naughty together?
+Would you trust #NAME to give you an employment reference?
+Would you and #NAME make a good couple?
+Do you secretly fantasize about #NAME?
+Do you think #NAME has ever been fired from a job?
+Do you have #NAME added on your friendlist? If so both take 1 drink.
+Do you think #NAME can swim?
+Who do you think would win in a fight? #NAME or #NAME
+Would you ERP with #NAME for unlimited drinks?
+Would you rather live with #NAME or #NAME?
+Do you think you have more hours on VRC than #NAME?
+What’s the most attractive quality you see in #NAME?
+What’s your idea of a perfect first date with #NAME?
+If you could swap lives with #NAME for a day, what’s the first thing you’d do?
+Do you think #NAME would be a good parent?
+Do you think #NAME drinks more than #NAME?
+Do you think #NAME will ever have children?
+Do you think #NAME has prescription glasses?
+Do you think #NAME is taller than you IRL?
+Do you think you could easily lie to #NAME?
 If you could talk a famous person, dead or alive, who would you pick and why?
 If you were handed $1,000 right now, what would you spend it on?
 Have you ever cheated on an exam?
@@ -99,33 +126,6 @@ What are the five most recent things in your search history?
 When’s the last time you got caught in a lie?
 What gross smell do you actually enjoy?
 Have you ever had a paranormal experience?
-Who would you f*ck, marry, kill..? #NAME / #NAME / #NAME
-Do you think #NAME and #NAME ever did something naughty together?
-Would you throw #NAME into lava for a million dollars?
-If you could choose between #NAME and #NAME, who would you save from certain death?
-Would you have sexy time with #NAME?
-What do you think about #NAME?
-What was the last lie you told #NAME?
-What do you like and hate about #NAME?
-Would you trust #NAME to give you an employment reference?
-Would you and #NAME make a good couple?
-Do you secretly fantasize about #NAME?
-Do you think #NAME has ever been fired from a job?
-Do you have #NAME added on your friendlist? If so both take 1 drink.
-Do you think #NAME can swim?
-Who do you think would win in a fight? #NAME or #NAME
-Would you ERP with #NAME for unlimited drinks?
-Would you rather live with #NAME or #NAME?
-Do you think you have more hours on VRC than #NAME?
-What’s the most attractive quality you see in #NAME?
-What’s your idea of a perfect first date with #NAME?
-If you could swap lives with #NAME for a day, what’s the first thing you’d do?
-Do you think #NAME would be a good parent?
-Do you think #NAME drinks more than #NAME?
-Do you think #NAME will ever have children?
-Do you think #NAME has prescription glasses?
-Do you think #NAME is taller than you IRL?
-If you could trade lives with any person here for a day, who would it be?
 Is there a game from your childhood that you still play?
 Have you ever bitten your partner during sexy time?
 Have you ever been bitten by your partner during sexy time?
@@ -171,7 +171,7 @@ How many IRL sexual partners have you had?
 If you could have one super power, what would it be?
 Who is your favorite pokémon?
 What's your favorite drinking game?
-Do you think you could easily lie to #NAME?
+If you could trade lives with any person here for a day, who would it be?
 What's your favorite meal to cook?
 What are you most afraid of?
 What was your dream job as a child?
@@ -179,8 +179,8 @@ What is your favorite movie/book series?
 Have you ever played a porn game for over an hour straight?
 How much money would it take for you to quit your job today?
 If you had to be trapped on a desert island with one person here, who would it be?
-Do you have a disability? 
-What was the last webpage you bookmarked? 
+Do you have a disability?
+What was the last webpage you bookmarked?
 Recommend a game, movie or show you've enjoyed recently.
 Have you ever been arrested/detained?
 Have you ever subscribed/donated to a cam model?
@@ -200,23 +200,209 @@ Who in this room would you trust the most with a secret, and why?
 What’s the weirdest place you’ve ever hooked up?
 What’s the kinkiest thing you’ve ever done?
 If you had to describe your love life as a movie title, what would it be?
+Whats your favorite color?
+Whats your favorite animal?
+If you could transform into any animal, which one would you choose?
+What was the first VRChat world you remember visiting?
+What was your first VRChat avatar?
+What is the strangest world you've ever stumbled across?
+What is the longest you've ever stayed in VRChat in one session?
+Have you ever fallen asleep in VRChat?
+What is your favorite type of VRChat world?
+What is your favorite thing about your current avatar?
+Have you ever accidentally revealed something embarrassing while in VRChat?
+What is the funniest avatar you've ever seen?
+Have you ever pretended to know where you were going in a world when you were completely lost?
+What is the most awkward silence you've experienced in VRChat?
+Have you ever joined a world specifically because someone you liked was there?
+What is the most unusual conversation you've had with a stranger?
+Have you ever spent longer choosing an avatar than actually using it?
+What is one avatar feature you secretly wish everyone had?
+Have you ever accidentally muted the wrong person?
+What is the most embarrassing thing you've done because you forgot your microphone was on?
+Have you ever danced in VRChat when you thought nobody was watching?
+What is your favorite VRChat memory?
+What is the most chaotic instance you've ever been in?
+Have you ever gotten completely lost in a maze world?
+What is the weirdest pickup or prop you've ever interacted with?
+Have you ever stayed in a world because you liked the music?
+What is the longest conversation you've had with someone you had just met?
+Have you ever made a friend in VRChat and then lost contact with them?
+What is your favorite avatar style?
+Have you ever changed avatars specifically to impress someone?
+What is something you have learned from another VRChat player?
+Have you ever been embarrassed by your avatar's proportions or animations?
+What is the funniest thing someone has ever said to you in VRChat?
+Have you ever accidentally walked into a private conversation?
+What is your favorite VRChat activity besides talking?
+Have you ever spent real money on something specifically because of VRChat?
+What is the most ridiculous avatar you've ever seriously considered using?
+Have you ever joined a public instance hoping to meet someone specific?
+What is your favorite kind of avatar gimmick?
+Have you ever forgotten which avatar you were wearing?
+What is the weirdest compliment you've received in VRChat?
+Have you ever been mistaken for someone else because of your avatar?
+What is your favorite VRChat sound effect?
+Have you ever accidentally crashed or disrupted an instance?
+What is one world you could visit repeatedly without getting bored?
+Have you ever stayed online much later than you intended because of a conversation?
+What is the most wholesome thing a stranger has done for you?
+Have you ever met someone in VRChat who you immediately clicked with?
+What is your least favorite kind of public-instance behavior?
+Have you ever hidden somewhere in a world just to observe people?
+What is the funniest avatar interaction you've witnessed?
+Have you ever gotten motion sick in VRChat?
+What is your favorite VRChat gesture?
+Have you ever accidentally used a gesture at the worst possible moment?
+What is the most embarrassing avatar you have ever worn seriously?
+Have you ever made an avatar specifically for a joke?
+What is the coolest avatar feature you've seen?
+Have you ever spent hours searching for a specific world?
+What is the strangest reason you've ever joined a world?
+Have you ever recognized someone solely by their avatar?
+What is your favorite VRChat world atmosphere?
+Have you ever been surprised by how different someone seemed compared with their avatar?
+What is the funniest username you've encountered?
+Have you ever accidentally called someone by the wrong name?
+What is the longest you've gone without changing avatars?
+Have you ever been caught talking to yourself in VRChat?
+What is your favorite VRChat memory involving a stranger?
+Have you ever joined a conversation without knowing what everyone was talking about?
+What is the weirdest thing you've seen happen in a mirror?
+Have you ever spent an entire session in one small area of a world?
+What is your favorite type of social interaction in VRChat?
+Have you ever been too shy to approach someone you wanted to talk to?
+What is the most unexpected friendship you've made?
+Have you ever recognized a person by their voice before seeing them?
+What is the funniest reaction you've received to an avatar?
+Have you ever used an avatar purely because its menu had funny options?
+What is one VRChat feature you would redesign?
+Have you ever forgotten you were in VR while doing something?
+What is the strangest world thumbnail that actually led to a good world?
+Have you ever gotten attached to a world that was later removed or changed?
+What is your favorite type of mirror behavior?
+Have you ever spent too much time in front of a mirror?
+What is the most ridiculous argument you've witnessed in VRChat?
+Have you ever joined a group of strangers and somehow ended up staying for hours?
+What is your favorite VRChat minigame?
+Have you ever lost a minigame because you were distracted by someone?
+What is the most embarrassing nickname someone has given you?
+Have you ever accidentally photobombed someone's VRChat picture?
+What is your favorite type of avatar expression?
+Have you ever tried to hide your laughter while muted?
+What is the strangest roleplay situation you've accidentally ended up in?
+Have you ever pretended to understand someone's avatar gimmick when you didn't?
+What is your favorite kind of VRChat event?
+Have you ever attended an event purely because someone invited you?
+What is the most memorable avatar crash you've witnessed?
+Have you ever had your avatar behave unexpectedly in front of strangers?
+What is one world you would recommend to almost anyone?
+Have you ever found something genuinely useful in a completely random world?
+What is the weirdest avatar name you've used?
+Have you ever changed your avatar because someone complimented it?
+What is your favorite VRChat social tradition?
+Have you ever spent an entire evening talking to people you had never met before?
+What is one thing you wish more VRChat players understood?
+Have you ever lied about why you joined an instance?
+What is the most awkward introduction you've ever had?
+Have you ever intentionally avoided someone in a public instance?
+What is the funniest misunderstanding you've had in VRChat?
+Have you ever accidentally joined the wrong instance?
+What is the strangest avatar combination you've seen?
+Have you ever judged a world by its thumbnail and been completely wrong?
+What is your favorite VRChat memory from late at night?
+Have you ever made someone laugh without intending to?
+What is the nicest compliment you have given someone in VRChat?
+Have you ever recognized someone after they completely changed avatars?
+What is the most unexpected thing you've learned about someone?
+Have you ever been nervous before joining an instance?
+What is your favorite thing to do when nobody else is around?
+Have you ever spent more time customizing an avatar than using it?
+What is the most useless avatar feature you love anyway?
+Have you ever accidentally triggered an avatar effect repeatedly?
+What is the funniest thing you've seen someone do while AFK?
+Have you ever mistaken an NPC for a real player?
+Have you ever mistaken a real player for an NPC?
+What is the strangest world mechanic you've encountered?
+Have you ever gotten emotionally attached to an avatar?
+What is your favorite avatar you've ever owned?
+Have you ever used an avatar that made people react completely differently to you?
+What is the most unusual place you've had a serious conversation?
+Have you ever stayed in an instance because you liked one person's voice?
+What is the weirdest conversation topic you've ended up discussing with strangers?
+Have you ever accidentally interrupted someone's roleplay?
+What is your favorite VRChat sound from a world?
+Have you ever had someone recognize you when you didn't recognize them?
+Have you ever forgotten that someone could see what you were doing?
+What is the most embarrassing thing you've done while trying to look cool?
+Have you ever tried to make an avatar do something it clearly wasn't designed to do?
+What is your favorite type of public world?
+Have you ever found a hidden area that nobody else in the instance knew about?
+What is the most unusual avatar accessory you've seen?
+Have you ever stayed silent because you didn't know how to enter a conversation?
+What is your favorite way of meeting new people in VRChat?
+Have you ever had a stranger remember you from a previous instance?
+What is the funniest thing someone has mistaken your avatar for?
+Have you ever changed your display name for a joke?
+What is your favorite VRChat social feature?
+Have you ever been unexpectedly invited somewhere by a stranger?
+What is the most interesting person you've met completely by chance?
+Have you ever joined a world because of a random portal?
+What is the weirdest place you've ever had a conversation?
+Have you ever been scared by something in a VRChat world?
+What is your favorite horror world experience?
+Have you ever screamed while wearing a headset?
+What is the funniest thing you've done immediately after taking off your headset?
+Have you ever accidentally revealed your real-world surroundings?
+What is the strangest thing someone has asked you in VRChat?
+Have you ever met someone who had the exact same avatar as you?
+What is the most memorable group of strangers you've encountered?
+Have you ever joined a world and immediately wanted to leave?
+What is your favorite type of VRChat music?
+Have you ever found a world through a random person's profile?
+What is the most interesting avatar shader you've seen?
+Have you ever tried to communicate entirely through gestures?
+Have you ever accidentally waved at someone who wasn't actually looking at you?
+What is the strangest thing you've seen someone carry around?
+Have you ever been surprised by how many people were in an instance?
+What is the most memorable public instance you've visited?
+Have you ever stayed somewhere just because the lighting looked nice?
+What is your favorite kind of VRChat photography?
+Have you ever taken a picture that turned out much better than expected?
+What is the worst avatar outfit you've ever worn?
+Have you ever deliberately worn an ugly avatar for fun?
+What is your favorite avatar transformation?
+Have you ever accidentally scared another player with an avatar effect?
+What is the funniest world you've ever visited?
+Have you ever gotten competitive over a VRChat game?
+What is the strangest competition you've participated in?
+Have you ever challenged someone you had just met to a game?
+What is your favorite VRChat memory involving a group?
+Have you ever met someone through VRChat who changed your opinion about something?
+What is the most random skill you've seen someone demonstrate in VRChat?
+Have you ever taught someone how to use something in VRChat?
+What is something you wish you had discovered about VRChat sooner?
+Have you ever accidentally stayed in a world until sunrise?
+What is the most ridiculous excuse you've heard for someone's avatar?
+What is the funniest thing you've seen happen during a VRChat event?
+Have you ever entered a world with a completely wrong expectation?
+Have you ever intentionally used an avatar you knew would attract attention?
+What is the most surprising compliment you've received?
+Have you ever met someone who recognized your voice from somewhere else?
+What is one VRChat experience you would like to repeat?
+Have you ever discovered a new friend through a completely random interaction?
+What is the longest you've gone without speaking while still staying in an instance?
+Have you ever communicated something complicated entirely with gestures?
+What is the funniest thing you've done while pretending to be AFK?
+Have you ever been caught secretly staring at someone else's avatar?
+What is one VRChat feature you use much more than you expected?
+Have you ever changed your avatar to match the theme of an instance?
+What is the most memorable first impression someone has made on you?
+If you could instantly create one VRChat world, what would it be?
+If you could relive one VRChat moment, which would you choose?
+If you were forced to pick a new VRChat name, what would it be?
 END TRUTH
 START DARE
-Pick someone in this room and (lovingly) roast them.
-Do an impression of another player until someone can figure out who it is.
-Say pickles at the end of every sentence you say until the game ends.
-Act like a chicken until your next turn.
-Talk in a British accent until your next turn.
-Try to “summon” the rain as loud as possible.
-Do a plank for a full minute.
-Do your sassiest runway walk.
-Put an ice cube in your mouth and let it melt.
-Bark like a dog until it’s your next turn.
-Repeat everything the person to your right says until your next turn.
-Demonstrate how you style your hair in the mirror (without actually using the mirror).
-Play air guitar for 10 seconds.
-In the next 10 minutes, find a way to scare another player and make it a surprise.
-Talk to a pillow as if it’s your crush.
 Drink 2 together with #NAME.
 Give a kiss to #NAME.
 Sit on the lap of #NAME for 1 round.
@@ -239,10 +425,8 @@ Give #NAME a hug, they need it.
 Win a rock paper scissors against #NAME, or else take 5 drinks.
 If you are older than #NAME, take 2 drinks.
 Whisper something flirtatious to #NAME.
-Grab a glass of water and empty it.
-Switch your controllers for 1 round.
-Switch your feet trackers for 1 round.
-Rotate your hip tracker belt 180 degree.
+Chug until #NAME says you can stop.
+Say a number between 1-10, then ask #NAME if you should take or give it.
 Talk in a very high voice for 1 round.
 Talk like Batman for 1 round.
 Quack everytime before you take a drink for 1 round.
@@ -252,7 +436,7 @@ Destroy a Rule!
 Give someone who is not paying attention 2 drinks!
 Whisper for 1 round.
 Change your status to what the group decides!
-Show everyone your best dancemoves!
+Show everyone some dancemoves!
 Group shot!
 Chug for 3 seconds.
 Press the dare button 2 more times!
@@ -267,15 +451,18 @@ Slap yourself on the butt.
 The group chooses your dare!
 Talk in slow-mo for 1 round.
 Take a pure shot!
+Grab a glass of water and empty it.
+Switch your controllers for 1 round.
+Switch your feet trackers for 1 round.
+Rotate your hip tracker belt 180 degree.
+Show everyone your best dancemoves!
 Change into the last avatar you ERP'd in.
-Chug until #NAME says you can stop.
 Tell a knock-knock joke.
 Preform 10 squats!
 Preform 10 push-ups!
 Change into your least favorite uploaded avatar.
 Invite someone to the world and make them drink!
-Drink for each person here you've thought about lewdly. 
-Say a number between 1-10, then ask #NAME if you should take or give it.
+Drink for each person here you've thought about lewdly.
 Eat a spoonful of raw cereal
 Fortnite dance right now!
 Take 3 drinks and tell Ziggor to fix his world.
@@ -291,11 +478,84 @@ Say the worst slur you are willing to say out loud.
 Speak your own language until your next turn.
 Use only sign language until your next turn.
 Compliment three people in the room—but make it weirdly specific.
+Pick someone in this room and (lovingly) roast them.
+Do an impression of another player until someone can figure out who it is.
+Say pickles at the end of every sentence you say until the game ends.
+Act like a chicken until your next turn.
+Talk in a British accent until your next turn.
+Try to “summon” the rain as loud as possible.
+Do a plank for a full minute.
+Do your sassiest runway walk.
+Put an ice cube in your mouth and let it melt.
+Bark like a dog until it’s your next turn.
+Repeat everything the person to your right says until your next turn.
+Demonstrate how you style your hair in the mirror (without actually using the mirror).
+Play air guitar for 10 seconds.
+In the next 10 minutes, find a way to scare another player and make it a surprise.
+Talk to a pillow as if it’s your crush.
+Respawn with #NAME and #NAME at the same time, last one back looses!
+Tell #NAME a terrible pick-up line.
+Ask #NAME to rate your current avatar from 1–10.
+Copy #NAME for 1 round.
+Ask #NAME to give you a random word, then immediately use it in a sentence.
+Give #NAME a dramatic royal greeting.
+Describe #NAME's avatar in exactly three words.
+Pretend #NAME is your boss and ask what your next task is.
+Invent a nickname for #NAME.
+Give #NAME a five-second dramatic applause.
+Walk up to #NAME and introduce yourself as though you are meeting them for the first time.
+Ask #NAME for a random animal and imitate it.
+Ask #NAME to choose a pose and attempt to copy it.
+Ask #NAME to choose a number, then do that many spins.
+Thank #NAME for something they have not actually done, very seriously.
+Ask #NAME to give you a random word and rhyme with it.
+Ask #NAME to give you a random letter and make up a word beginning with it.
+Stand between #NAME and #NAME and take a selfie with them.
+Ask #NAME and #NAME to each give you a word, then make a sentence containing both.
+Change into an avatar you have not used in at least a month.
+Sit in the corner untill it is your turn again.
+Pretend to be a statue until someone talks to you.
+Give an imaginary weather report for the current world.
+Announce a completely fictional emergency and immediately solve it.
+Pretend you are a museum guide explaining the nearest thing people can see.
+Create a new dance using only three repeated movements.
+Act like you have just discovered mirrors for the first time.
+Give a short advertisement for the world you're in.
+Grab your camera and make a group selfie with everyone in the background.
+Grab your camera and take a picture together with the next player.
+Grab your camera and take a picture together with the previous player.
+Choose a random player and give them a fictional job title.
+Find the nearest chair and pretend it is a throne.
+Perform a dramatic entrance into the room.
+Place your weirdest sticker in the room.
+Place your cutest sticker in the room.
+Say what is better on your avatar, then some other the other avatars in the room.
+You can only whisper for 1 round.
+You can only speak loud for 1 round.
+Act as though the floor is lava for 1 round.
+Rejoin the instance.
+Pretend to record a cringe flog in the room.
+Do your best hero pose in front of everyone.
+Perform something short and let people guess where it is from.
+Communicate only with emojis for 1 round.
+Use only short one-word responses for 1 round.
+Talk in an accent for 1 round.
+End all of your sentences as if they were a question for 1 round.
+Speak really fast for 1 round.
+Speak really slow for 1 round.
+Change into the funniest avatar you currently have.
+Communicate only with gestures for 1 round.
+Stand completely still for 60 seconds while everyone else continues normally.
+Do your best victory pose.
+Stand up and strike three completely different poses.
+Speak in a dramatically different voice for 1 round.
+Pretend you are an NPC for 1 round.
+Use only one-word answers for 1 round.
+Find a random object in the world and bring it back with you.
+Pick a random direction and walk that way for 20 seconds.
+Make your avatar perform your most ridiculous available gesture.
+Spend 1 round narrating everything you do like a documentary.
+Act in slow motion for 1 round.
+Give an imaginary award to either person next to you.
+Pick a random player and give them a sincere compliment.
 END DARE
-
-
-
-
-
-
-
